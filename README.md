@@ -34,10 +34,16 @@
 整合氣象署 API、環境部資料與即時新聞爬蟲的適地性生活助理，具備地震即時示警功能。
 
 
-## 論文
+## 論文與研究發表
 
-###  [Third-party Script Governance Auditor](連結待補)
-量化稽核網站第三方腳本依賴性的治理工具，提升網頁資源透明度與風險管理。
+### [Clustering-Based Big Data Analysis of Web Crawler Opt-Out Strategies: A Scientific Approach to Robots.txt Governance](連結待補)
+* **發表於：** ICBDA 2026 (International Conference on Big Data Analysis), Waseda University, Tokyo. (Oral Presentation)
+* **核心內容：** 運用大數據科學方法分析全球前百大網站（BEDC List）的 robots.txt 治理策略，揭示 61.2% 的網站已對 AI 爬蟲進行限制。研究提煉出「全面拒絕、部分 AI 阻斷、限速存取」三大治理模式，為生成式 AI 時代的數據供應鏈透明度提供實證依據。
+
+### [網站第三方資源依賴的縱貫性量化實證研究：治理策略矩陣與去風險化演進](連結待補)
+* **核心指標：** TDI (第三方依賴度)、TMI (追蹤強度)、SCI (供應商集中度)。
+* **核心內容：** 針對 Tranco List 頂尖網站進行 2022 至 2026 年的縱貫性量化追蹤（Longitudinal Study）。透過雙軌量測機制（靜態解析與 Headless Chrome 動態模擬）分析網頁前端供應鏈風險，建構「網站治理策略矩陣」，驗證企業在數位資產管理上的去風險化趨勢。
+
 
 ---
 
