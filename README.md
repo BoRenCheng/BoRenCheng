@@ -36,7 +36,7 @@
 
 ## 論文與研究發表
 
-### [Clustering-Based Big Data Analysis of Web Crawler Opt-Out Strategies: A Scientific Approach to Robots.txt Governance](連結待補)
+### [Clustering-Based Big Data Analysis of Web Crawler Opt-Out Strategies: A Scientific Approach to Robots.txt Governance](https://github.com/BoRenCheng/Web-Crawler-Opt-Out-Analysis)
 * **發表於：** ICBDA 2026 (International Conference on Big Data Analysis), Waseda University, Tokyo. (Oral Presentation)
 * **核心內容：** 運用大數據科學方法分析全球前百大網站（BEDC List）的 robots.txt 治理策略，揭示 61.2% 的網站已對 AI 爬蟲進行限制。研究提煉出「全面拒絕、部分 AI 阻斷、限速存取」三大治理模式，為生成式 AI 時代的數據供應鏈透明度提供實證依據。
 
