@@ -30,7 +30,7 @@
 ###  [FinTech-ML-Factor-Investing](https://github.com/BoRenCheng/FinTech-ML-Factor-Investing)
 運用機器學習與深度學習預測財務因子 IC 值，並進行 26 年台股長週期回測的量化投資框架。
 
-###  [[LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot--InfoGrabber)
+###  [[LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot--InfoGrabber)
 整合氣象署 API、環境部資料與即時新聞爬蟲的適地性生活助理，具備地震即時示警功能。
 
 
