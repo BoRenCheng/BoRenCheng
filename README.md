@@ -8,7 +8,7 @@
 
 ---
 
-##  核心亮點 (Highlights)
+##  核心亮點 
 
 * **國際學術發表**：於 **ICBDA 2026 (東京早稻田大學)** 發表全英文論文並進行口頭報告，研究重點為 Robots.txt 治理策略之大數據分析。
 * **量化投資實證**：開發台股多因子選股模型（1999-2025），實作 OLS、隨機森林與深度神經網路（NN1-NN5），在特定分組下達成 **61.9% 勝率** 與優於大盤 **2.5 倍之夏普比率**。
@@ -16,7 +16,7 @@
 
 ---
 
-## 技術棧 
+## 技能
 
 * **Languages:** Python (Primary), SQL, JavaScript
 * **Data Science:** Pandas, NumPy, Scikit-Learn
@@ -25,13 +25,16 @@
 
 ---
 
-## 精選專案 
+## 專案 
 
 ###  [FinTech-ML-Factor-Investing](https://github.com/BoRenCheng/FinTech-ML-Factor-Investing)
 運用機器學習與深度學習預測財務因子 IC 值，並進行 26 年台股長週期回測的量化投資框架。
 
 ###  [LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot-InfoGrabber)
 整合氣象署 API、環境部資料與即時新聞爬蟲的適地性生活助理，具備地震即時示警功能。
+
+
+## 論文
 
 ###  [Third-party Script Governance Auditor](連結待補)
 量化稽核網站第三方腳本依賴性的治理工具，提升網頁資源透明度與風險管理。
@@ -52,8 +55,7 @@
 * **Email:** [Raycheng940629@gmail.com]
 * **Phone Number:** 09-68893159
 
----
-"The best way to predict the future is to create it."
+
 <!--
 **BoRenCheng/BoRenCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
