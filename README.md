@@ -50,6 +50,7 @@
 ## 榮譽與認證
 
 * **中研院資料科學競賽** - 優選 (高齡族群長照分析)
+* **法國巴黎人壽創新創業競賽** - 佳作 (孕(運)轉乾坤)
 * **NVIDIA 認證** - Fundamentals of Deep Learning / Omniverse Extension Development
 * **Google Analytics** - GA4 專業認證
 * **TOEIC** - 745 分
