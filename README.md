@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there, I'm Bo-Ren Cheng (鄭博仁) 👋
+# Hi there, I'm Bo-Ren Cheng (鄭博仁) 
 
 **Computer Science Junior @ Soochow University (SCU)** **AI Researcher | FinTech Developer | Data Science Enthusiast**
 
