@@ -63,15 +63,16 @@
 
 ## 認證與語言能力
 
-### [NVIDIA DLI 深度學習與 Omniverse 認證](docs/NVIDIA_Certs.pdf)
+### [NVIDIA DLI 深度學習與 Omniverse 認證]
 掌握深度學習基礎理論與實踐，以及 Omniverse 平台之擴充功能開發技術。
 
-### [Google Analytics 4 (GA4) 專業認證](docs/GA4_Cert.pdf)
+### [Google Analytics 4 (GA4) 專業認證]
 具備數位行銷數據分析與使用者行為追蹤能力。
 
-### [TOEIC 聽力與閱讀 - 745 分](docs/TOEIC_Score.pdf)
+### [TOEIC 聽力與閱讀 - 745 分]
 具備基礎商務與學術英語交流能力，能閱讀英文論文與進行國際發表。
 
+查看所有證明點這裡(docs/NVIDIA_Certs.pdf)
 ---
 
 ##  聯絡我 
