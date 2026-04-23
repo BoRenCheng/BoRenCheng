@@ -45,7 +45,7 @@
 
 ---
 
-## 競賽經歷 
+## 榮譽與競賽經歷 
 
 ### [中研院資料科學競賽 - 優選](docs/Academia_Sinica_Poster.pdf)
 運用長期追蹤調查數據，分析高齡者長照需求之時間變遷，為政策提供數據支持。
@@ -78,6 +78,7 @@
 
 * **Email:** [Raycheng940629@gmail.com]
 * **Phone Number:** 09-68893159
+* **Resume & CV :** ()
 
 
 <!--
