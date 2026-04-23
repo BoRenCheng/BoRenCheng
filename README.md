@@ -45,13 +45,32 @@
 
 ---
 
-## 榮譽與證照
+## 榮譽與競賽經歷 
 
-* **中研院資料科學競賽** - 優選 (高齡族群長照分析)
-* **法國巴黎人壽創新創業競賽** - 佳作 (孕(運)轉乾坤)
-* **NVIDIA 認證** - Fundamentals of Deep Learning / Omniverse Extension Development
-* **Google Analytics** - GA4 專業認證
-* **TOEIC** - 745 分
+### [中研院資料科學競賽 - 優選](docs/Academia_Sinica_Poster.pdf)
+運用長期追蹤調查數據，分析高齡者長照需求之時間變遷，為政策提供數據支持。
+
+### [法國巴黎人壽創新創業競賽 - 佳作](連結待補)
+針對孕期女性設計之健康管理服務提案，整合運動數據與創新商業模式。
+
+### [教育部 U-start 創新創業計畫 - 參與經歷](https://github.com/BoRenCheng/FinancePT)
+開發 FinancePT 個人金融 AI 教練，整合多模態識別與小型語言模型 (SLM)。
+
+### [USR 學生社會實踐責任 - 佳作](連結待補)
+「聲動福華」專案：運用資訊技術輔助社區社會實踐方案，提升社會參與度。
+
+---
+
+## 認證證書與語言能力
+
+### [NVIDIA DLI 深度學習與 Omniverse 認證](docs/NVIDIA_Certs.pdf)
+掌握深度學習基礎理論與實踐，以及 Omniverse 平台之擴充功能開發技術。
+
+### [Google Analytics 4 (GA4) 專業認證](docs/GA4_Cert.pdf)
+具備數位行銷數據分析與使用者行為追蹤能力。
+
+### [TOEIC 聽力與閱讀 - 745 分](docs/TOEIC_Score.pdf)
+具備基礎商務與學術英語交流能力，能閱讀英文論文與進行國際發表。
 
 ---
 
