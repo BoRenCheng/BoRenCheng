@@ -38,7 +38,7 @@
 * **發表於：** ICBDA 2026 (International Conference on Big Data Analysis), Waseda University, Tokyo. (Oral Presentation)
 * **核心內容：** 運用大數據科學方法分析全球前百大網站（BEDC List）的 robots.txt 治理策略，揭示 61.2% 的網站已對 AI 爬蟲進行限制。研究提煉出「全面拒絕、部分 AI 阻斷、限速存取」三大治理模式，為生成式 AI 時代的數據供應鏈透明度提供實證依據。
 
-### [網站第三方資源依賴的縱貫性量化實證研究：治理策略矩陣與去風險化演進](連結待補)
+### [網站第三方資源依賴的縱貫性量化實證研究：治理策略矩陣與去風險化演進](https://github.com/BoRenCheng/Web-ThirdParty-Governance-Study)
 * **核心指標：** TDI (第三方依賴度)、TMI (追蹤強度)、SCI (供應商集中度)。
 * **核心內容：** 針對 Tranco List 頂尖網站進行 2022 至 2026 年的縱貫性量化追蹤（Longitudinal Study）。透過雙軌量測機制（靜態解析與 Headless Chrome 動態模擬）分析網頁前端供應鏈風險，建構「網站治理策略矩陣」，驗證企業在數位資產管理上的去風險化趨勢。
 
