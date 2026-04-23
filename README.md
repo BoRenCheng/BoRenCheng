@@ -2,9 +2,7 @@
 
 **Computer Science Junior @ Soochow University (SCU)** **AI Researcher | FinTech Developer | Data Science Enthusiast**
 
-目前就讀於東吳大學資料科學系三年級
-
-熱衷於透過數據科學與機器學習解決複雜問題
+目前就讀於東吳大學資料科學系三年級，熱衷於透過數據科學與機器學習解決複雜問題
 
 ---
 
