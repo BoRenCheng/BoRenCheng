@@ -53,11 +53,11 @@
 
 | 年份 | 獎項 | 主辦單位 |
 |------|------|---------|
-| 2026 | ICBDA 口頭發表（Paper ID: BAI26-517） | Waseda University, Tokyo |
+| 2026 | ICBDA 口頭發表 | Waseda University, Tokyo |
+| 2026 | U-start 創新創業計畫 | 教育部 |
 | 2025 | 資料科學漫步 優選獎 | 中央研究院統計科學研究所 |
-| 2025 | Cardif InsurHack 校園黑客松 佳作 | BNP Paribas Cardif 法國巴黎人壽 |
 | 2025 | USR 學生社會責任實踐專題競賽 佳作 | 東吳大學 |
-| 2024 | U-start 創新創業計畫 | 教育部 |
+| 2025 | Cardif InsurHack 校園黑客松 佳作 | BNP Paribas Cardif 法國巴黎人壽 |
 ---
 
 ## 認證與語言能力
