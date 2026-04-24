@@ -14,15 +14,6 @@
 
 ---
 
-## 技能
-
-* **Languages:** Python (Primary), SQL, JavaScript
-* **Data Science:** Pandas, NumPy, Scikit-Learn
-* **Web Scraping & Tools:** BeautifulSoup4, Requests
-* **Deployment:** Render, Docker, Git
-
----
-
 ## 專案 
 
 ###  [FinTech-ML-Factor-Investing](https://github.com/BoRenCheng/FinTech-ML-Factor-Investing)
@@ -81,6 +72,14 @@
 [查看所有證明 Click Here!](https://github.com/BoRenCheng/Professional-Certifications)
 ---
 
+## 技能
+
+* **Languages:** Python (Primary), SQL, JavaScript
+* **Data Science:** Pandas, NumPy, Scikit-Learn
+* **Web Scraping & Tools:** BeautifulSoup4, Requests
+* **Deployment:** Render, Docker, Git
+
+---
 ##  聯絡我 
 
 * **Email:** Raycheng940629@gmail.com
