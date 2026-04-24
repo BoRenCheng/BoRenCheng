@@ -75,7 +75,7 @@
 ### TOEIC 聽力與閱讀 - 745 分
 具備基礎商務與學術英語交流能力，能閱讀英文論文與進行國際發表。
 
-[查看所有證明 Click Here!]()
+[查看所有證明 Click Here!](https://github.com/BoRenCheng/Professional-Certifications)
 ---
 
 ##  聯絡我 
