@@ -22,6 +22,8 @@
 ###  [LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot--InfoGrabber)
 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理，具備地震即時示警與定位找美食的功能。
 
+###  [Unity-AR-SoochowQuiz](https://github.com/BoRenCheng/Unity-AR-SoochowQuiz)
+以東吳大學校園知識為題材的 AR 擴增實境互動問答遊戲，掃描圖片卡觸發幽靈角色，完成對話後進入限時問答關卡。
 
 ## 論文與研究發表
 
