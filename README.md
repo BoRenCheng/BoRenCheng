@@ -56,7 +56,7 @@
 ### [教育部 U-start 創新創業計畫 - 參與經歷](https://github.com/BoRenCheng/FinancePT-AI-Financial-Coach)
 開發 FinancePT 個人金融 AI 教練，整合多模態識別與小型語言模型 (SLM)。
 
-### [USR 學生社會實踐責任 - 佳作](連結待補)
+### [USR 學生社會實踐責任 - 佳作](https://github.com/BoRenCheng/USR-Sounding-Fuhua-Podcast)
 「聲動福華」專案：運用資訊技術輔助社區社會實踐方案，提升社會參與度。
 
 ---
