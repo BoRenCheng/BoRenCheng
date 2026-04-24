@@ -50,12 +50,13 @@
 ### [USR 學生社會實踐責任 - 佳作](https://github.com/BoRenCheng/USR-Sounding-Fuhua-Podcast)
 「聲動福華」專案：運用資訊技術輔助社區社會實踐方案，提升社會參與度。
 
+
 | 年份 | 獎項 | 主辦單位 |
 |------|------|---------|
-| 2026 | ICBDA 口頭發表 | Waseda University, Tokyo |
-| 2025 | 資料科學競賽 優選 | 中央研究院 |
-| 2025 | 創新創業競賽 佳作 | 法國巴黎人壽 |
-| 2025 | USR 社會實踐 佳作 | 教育部 |
+| 2026 | ICBDA 口頭發表（Paper ID: BAI26-517） | Waseda University, Tokyo |
+| 2025 | 資料科學漫步 優選獎 | 中央研究院統計科學研究所 |
+| 2025 | Cardif InsurHack 校園黑客松 佳作 | BNP Paribas Cardif 法國巴黎人壽 |
+| 2025 | USR 學生社會責任實踐專題競賽 佳作 | 東吳大學 |
 | 2024 | U-start 創新創業計畫 | 教育部 |
 ---
 
