@@ -19,6 +19,9 @@
 ###  [FinTech-ML-Factor-Investing](https://github.com/BoRenCheng/FinTech-ML-Factor-Investing)
 運用機器學習與深度學習預測財務因子 IC 值，並進行 26 年台股長週期回測的量化投資框架。
 
+###  [MCI-GRU-Taiwan-Stock-Prediction](https://github.com/BoRenCheng/MCI-GRU-Taiwan-Stock-Prediction)
+結合改良型 GRU、圖注意力網路（GAT）與多頭交叉注意力機制，對鴻海、台積電、華邦電、國巨進行 2024–2025 年 Rolling-Expanding 日報酬回測實證。
+
 ###  [LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot--InfoGrabber)
 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理，具備地震即時示警與定位找美食的功能。
 
