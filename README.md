@@ -69,6 +69,9 @@
 ### Google Analytics 4 (GA4) 專業認證
 具備數位行銷數據分析與使用者行為追蹤能力。
 
+### Google Certification for Educators
+具備運用生成式 AI (Gemini) 優化教學流程、數位教案開發與提升教學行政效率之專業能力。
+
 ### Microsoft Office PowerPoint 認證
 具備專業級簡報設計與多媒體製作能力，能產出具說服力的學術報告與創業提案。
 
