@@ -25,6 +25,9 @@
 ###  [LineBot-InfoGrabber](https://github.com/BoRenCheng/LineBot--InfoGrabber)
 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助理，具備地震即時示警與定位找美食的功能。
 
+###  [egg-freeze-insurance-web](https://github.com/BoRenCheng/egg-freeze-insurance-web)
+具備會員登入系統與 SQLite 資料庫後端的凍卵保險資訊平台，整合前後端架構，提供保險方案查詢、會員管理與投保流程的完整 Web 應用。串接 Gemini API 實現智能保險諮詢功能，以 Docker 容器化部署並透過 Render 進行雲端託管，版本控制採用 Git 管理開發流程。
+
 ###  [Unity-AR-SoochowQuiz](https://github.com/BoRenCheng/Unity-AR-SoochowQuiz)
 以東吳大學校園知識為題材的 AR 擴增實境互動問答遊戲，掃描圖片卡觸發幽靈角色，完成對話後進入限時問答關卡。
 
