@@ -75,11 +75,17 @@ Line Bot 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助�
 ### NVIDIA DLI 深度學習與 Omniverse 認證
 掌握深度學習基礎理論與實踐，以及 Omniverse 平台之擴充功能開發技術。
 
+### NVIDIA Jetson Nano 人工智慧應用開發認證
+具備透過 Jetson Nano 邊緣運算裝置開發人工智慧應用之實務能力，涵蓋 Edge AI 與嵌入式系統部署。
+
 ### Google Analytics 4 (GA4) 專業認證
 具備數位行銷數據分析與使用者行為追蹤能力。
 
 ### Google Gemini Certification for Educators
 具備運用生成式 AI (Gemini) 優化教學流程、數位教案開發與提升教學行政效率之專業能力。
+
+### Google Foundations of Cybersecurity 認證
+具備資訊安全基礎概念，涵蓋威脅分析、風險管理與網路安全防護實務。
 
 ### Microsoft Office PowerPoint 認證
 具備專業級簡報設計與多媒體製作能力，能產出具說服力的學術報告與創業提案。
