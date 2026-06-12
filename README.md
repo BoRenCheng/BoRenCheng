@@ -54,6 +54,9 @@ Line Bot 整合氣象署 API、環境部資料與即時新聞爬蟲的生活助�
 ### [法國巴黎人壽創新創業競賽 - 佳作](https://github.com/BoRenCheng/Pregnancy-HealthTech-Innovation-competition)
 針對孕期女性設計之健康管理服務提案，整合運動數據與創新商業模式。
 
+### [全國大專校院「Healthy×Happy」創新創業競賽 - 第一名](https://github.com/BoRenCheng/healthy-happy-2026)
+開發 AI 營養健康管理平台，整合 InBody 數據、穿戴裝置與小型語言模型（SLM），提供個人化營養建議與健康決策支援服務。
+
 ### [教育部 U-start 創新創業計畫 - 參與經歷](https://github.com/BoRenCheng/FinancePT-AI-Financial-Coach)
 開發 FinancePT 個人金融 AI 教練，整合多模態識別與小型語言模型 (SLM)。
 
